@@ -1,5 +1,3 @@
-# UnoDev
-
 # Jogo de Cartas - Versão Estilizada
 
 ## Total de Cartas: 120
