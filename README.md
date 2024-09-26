@@ -1,6 +1,6 @@
 # Jogo de Cartas - Versão Estilizada
 
-## Total de Cartas: 120
+## Total de Cartas: 136
 
 ### Estrutura das Cartas
 
